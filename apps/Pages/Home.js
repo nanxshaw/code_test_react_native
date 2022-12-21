@@ -28,7 +28,7 @@ class Home extends Component {
       id: item.id,
       name: item.name,
       qty: item.qty,
-      isActive: true,
+      isActive: false,
       picture: item.picture,
       expiredAt: item.expiredAt,
     }
